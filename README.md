@@ -1,5 +1,3 @@
----
-
 ## Dependências e Versões
 
 ### As seguintes bibliotecas foram utilizadas:
@@ -21,4 +19,5 @@
 ### Treinar o modelo
 ```bash
 python src/train.py --model cnn --epochs 15
+
 
