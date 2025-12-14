@@ -2,7 +2,7 @@
 
 ## Dependências e Versões
 
-As seguintes bibliotecas foram utilizadas:
+### As seguintes bibliotecas foram utilizadas:
 
 - **Python**: 3.10.x
 - **TensorFlow**: 2.15.0
@@ -21,3 +21,4 @@ As seguintes bibliotecas foram utilizadas:
 ### Treinar o modelo
 ```bash
 python src/train.py --model cnn --epochs 15
+
